@@ -9,10 +9,10 @@ using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 Console.WriteLine("Hello, World!");
 
 const string connectionStringSqlServer =
-    "Server=localhost,1433;Database=StephanoIO;User ID=sa;Password=GStephano@1998*;TrustServerCertificate=true";
+    "Server=localhost,1433;Database=StephanoIO;User ID=sa;Password=1q2w3e4r@#$;TrustServerCertificate=true";
 
 //const string connectionStringPostgreSql =
-//    "Server=localhost,5432;Database=pssql;User ID=pssql;Password=GStephano@1998*;";
+//    "Server=localhost,5432;Database=pssql;User ID=pssql;Password=1q2w3e4r@#$;";
 
 var category = new Category();
 category.Id = Guid.NewGuid();

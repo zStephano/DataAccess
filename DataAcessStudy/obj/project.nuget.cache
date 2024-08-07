@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q35kv2Sp0FQ=",
+  "dgSpecHash": "ERxN74q22e8=",
   "success": true,
-  "projectFilePath": "C:\\dev\\StudyProjects\\ProgrammingLanguages\\CSharp\\DataAccess\\DataAcessStudy\\DataAcessStudy.csproj",
+  "projectFilePath": "C:\\dev\\Backend-Projects\\CSharp\\DataAccess\\DataAcessStudy\\DataAcessStudy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",

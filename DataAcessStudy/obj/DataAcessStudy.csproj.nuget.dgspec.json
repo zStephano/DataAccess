@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\StudyProjects\\ProgrammingLanguages\\CSharp\\DataAccess\\DataAcessStudy\\DataAcessStudy.csproj": {}
+    "C:\\dev\\Backend-Projects\\CSharp\\DataAccess\\DataAcessStudy\\DataAcessStudy.csproj": {}
   },
   "projects": {
-    "C:\\dev\\StudyProjects\\ProgrammingLanguages\\CSharp\\DataAccess\\DataAcessStudy\\DataAcessStudy.csproj": {
+    "C:\\dev\\Backend-Projects\\CSharp\\DataAccess\\DataAcessStudy\\DataAcessStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\StudyProjects\\ProgrammingLanguages\\CSharp\\DataAccess\\DataAcessStudy\\DataAcessStudy.csproj",
+        "projectUniqueName": "C:\\dev\\Backend-Projects\\CSharp\\DataAccess\\DataAcessStudy\\DataAcessStudy.csproj",
         "projectName": "DataAcessStudy",
-        "projectPath": "C:\\dev\\StudyProjects\\ProgrammingLanguages\\CSharp\\DataAccess\\DataAcessStudy\\DataAcessStudy.csproj",
+        "projectPath": "C:\\dev\\Backend-Projects\\CSharp\\DataAccess\\DataAcessStudy\\DataAcessStudy.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\StudyProjects\\ProgrammingLanguages\\CSharp\\DataAccess\\DataAcessStudy\\obj\\",
+        "outputPath": "C:\\dev\\Backend-Projects\\CSharp\\DataAccess\\DataAcessStudy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
